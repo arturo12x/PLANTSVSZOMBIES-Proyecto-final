@@ -1,0 +1,38 @@
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PLANTSVSZOMBIES\PLANTSVSZOMBIES\bin\Debug\PLANTSVSZOMBIES.exe.config
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PLANTSVSZOMBIES\PLANTSVSZOMBIES\bin\Debug\PLANTSVSZOMBIES.exe
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PLANTSVSZOMBIES\PLANTSVSZOMBIES\bin\Debug\PLANTSVSZOMBIES.pdb
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\Interop.WMPLib.dll
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\PLANTSVSZOMBIES.csproj.ResolveComReference.cache
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\PLANTSVSZOMBIES.SPLASH_SCREEEN.resources
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\PLANTSVSZOMBIES.game.resources
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\PLANTSVSZOMBIES.main_menu.resources
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\PLANTSVSZOMBIES.Properties.Resources.resources
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\PLANTSVSZOMBIES.seleccionar_plantas.resources
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\PLANTSVSZOMBIES.selector_dificultad.resources
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\PLANTSVSZOMBIES.csproj.GenerateResource.cache
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\PLANTSVSZOMBIES.exe
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\PLANTSVSZOMBIES.pdb
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\PLANTSVSZOMBIES.csprojAssemblyReference.cache
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\PLANTSVSZOMBIES.muerte.resources
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PLANTSVSZOMBIES\PLANTSVSZOMBIES\bin\Debug\PLANTSVSZOMBIES.exe.config
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PLANTSVSZOMBIES\PLANTSVSZOMBIES\bin\Debug\PLANTSVSZOMBIES.exe
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PLANTSVSZOMBIES\PLANTSVSZOMBIES\bin\Debug\PLANTSVSZOMBIES.pdb
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\PLANTSVSZOMBIES.csprojAssemblyReference.cache
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\Interop.WMPLib.dll
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\PLANTSVSZOMBIES.csproj.ResolveComReference.cache
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\PLANTSVSZOMBIES.SPLASH_SCREEEN.resources
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\PLANTSVSZOMBIES.game.resources
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\PLANTSVSZOMBIES.main_menu.resources
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\PLANTSVSZOMBIES.muerte.resources
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\PLANTSVSZOMBIES.Properties.Resources.resources
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\PLANTSVSZOMBIES.seleccionar_plantas.resources
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\PLANTSVSZOMBIES.selector_dificultad.resources
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\PLANTSVSZOMBIES.csproj.GenerateResource.cache
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\PLANTSVSZOMBIES.exe
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PLANTSVSZOMBIES\PLANTSVSZOMBIES\obj\Debug\PLANTSVSZOMBIES.pdb
